@@ -1,6 +1,6 @@
 {
   "name": "google-oauth2-cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A small module to facilitate oauth auth for CLI apps based on this code sample https://developers.google.com/admin-sdk/groups-settings/quickstart/nodejs",
   "main": "index.js",
   "scripts": {
