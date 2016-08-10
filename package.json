@@ -1,0 +1,24 @@
+{
+  "name": "google-oauth2-cli",
+  "version": "1.0.0",
+  "description": "A small module to facilitate oauth auth for CLI apps based on this code sample https://developers.google.com/admin-sdk/groups-settings/quickstart/nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "oauth2",
+    "cli"
+  ],
+  "author": "Tomasz Rakowski",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.9.8",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "merge": "^1.2.0",
+    "mocha": "^3.0.2"
+  }
+}
